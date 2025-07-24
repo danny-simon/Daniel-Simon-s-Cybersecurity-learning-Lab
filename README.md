@@ -24,6 +24,6 @@ This repository is a collection of my learning materials, hands-on labs, notes, 
 
 If you’d like to collaborate, connect, or provide feedback, feel free to reach out:
 
-danielsimonoshioebugie@gmail.com
+danielsimonoshiobugie@gmail.com
 
 
