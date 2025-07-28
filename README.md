@@ -38,6 +38,13 @@ In this task, information was analyzed from the log_in_attempts table to determi
 -  First, you need to investigate the locations where login attempts were made to ensure that they’re in expected areas (the United States, Canada, or Mexico).
 -  Write a SQL query that selects the username, login_date, and login_time columns from the log_in_attempts table.
 -  Write a SQL query that selects all columns from the log_in_attempts table, using a single symbol after the SELECT keyword.
+  
+Task 3. Order login attempts data
+
+In this task, you need to use the ORDER BY keyword. You'll sequence the data that your query returns according to the login date and time.
+
+- Run the following query, which orders log_in_attempts data by login_date:
+- Modify the query from the previous step by adding the login time to the ORDER BY clause. You must replace X with the appropriate column name:
 
 ##  Contact Me
 
