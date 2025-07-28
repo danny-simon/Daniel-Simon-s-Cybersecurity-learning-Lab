@@ -19,6 +19,10 @@ This repository is a collection of my learning materials, hands-on labs, notes, 
 - Share notes, configurations, and commands
 - Upload practice labs and small projects
 - Collaborate with others interested in cybersecurity
+  
+## working with SQL
+
+In this task, information were obtained on employee devices because the team needs to update them. The information that needed is in the machines table in the organization database. Below is an image of the task.
 
 ##  Contact Me
 
