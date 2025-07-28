@@ -35,9 +35,9 @@ Task 2. Investigate login activity
 
 In this task, information was analyzed from the log_in_attempts table to determine if any unusual activity has occurred.
 
-- ** First, you need to investigate the locations where login attempts were made to ensure that they’re in expected areas (the United States, Canada, or Mexico).
-- ** Write a SQL query that selects the username, login_date, and login_time columns from the log_in_attempts table.
-- ** Write a SQL query that selects all columns from the log_in_attempts table, using a single symbol after the SELECT keyword.
+-  First, you need to investigate the locations where login attempts were made to ensure that they’re in expected areas (the United States, Canada, or Mexico).
+-  Write a SQL query that selects the username, login_date, and login_time columns from the log_in_attempts table.
+-  Write a SQL query that selects all columns from the log_in_attempts table, using a single symbol after the SELECT keyword.
 
 ##  Contact Me
 
