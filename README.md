@@ -22,7 +22,7 @@ This repository is a collection of my learning materials, hands-on labs, notes, 
   
 ## working with SQL
 
-In this task, information were obtained on employee devices because the team needs to update them. The information that needed is in the machines table in the organization database. Below is an image of the task.
+In this task, information were obtained on employee devices because the team needs to update them. The information needed is in the machines table in the organization database. Below is an image of the task.
 
 ##  Contact Me
 
