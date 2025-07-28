@@ -22,7 +22,20 @@ This repository is a collection of my learning materials, hands-on labs, notes, 
   
 ## working with SQL
 
-In this task, information were obtained on employee devices because the team needs to update them. The information needed is in the machines table in the organization database. Below is an image of the task.
+Task 1. Retrieve employee device data
+-- Run the following query to select all device information from the machines table:
+-- Run the following query to select only the device_id and email_client columns from the machines table. Replace X with device_id and Y with email_client:
+-- Complete the query to return only the device_id, operating_system, and OS_patch_date columns from the machines table. Replace X, Y, and Z with the columns that you need to return:
+
+In this task, information were obtained on employee devices because the team needs to update them. The information needed is in the machines table in the organization database. Below are the images of the tasks performed. 
+
+Task 2. Investigate login activity
+
+In this task, information was analyzed from the log_in_attempts table to determine if any unusual activity has occurred.
+
+-- First, you need to investigate the locations where login attempts were made to ensure that they’re in expected areas (the United States, Canada, or Mexico).
+-- Write a SQL query that selects the username, login_date, and login_time columns from the log_in_attempts table.
+-- Write a SQL query that selects all columns from the log_in_attempts table, using a single symbol after the SELECT keyword.
 
 ##  Contact Me
 
